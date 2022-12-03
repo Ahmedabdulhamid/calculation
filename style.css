@@ -1,0 +1,32 @@
+.btn {
+    margin: 5px 0;
+    background-color: orange;
+    color: white;
+    width: 20%;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.numbers {
+    width: 20%;
+    border: none;
+    margin: 3px 0;
+}
+
+.delete {
+    background-color: red;
+    width: 20%;
+    border: none;
+}
+
+.x {
+    width: 20%;
+    border: none;
+}
+
+.back {
+    width: 20%;
+    border: none;
+}
